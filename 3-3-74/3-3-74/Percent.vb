@@ -1,4 +1,0 @@
-﻿
-Class Percent
-
-End Class
