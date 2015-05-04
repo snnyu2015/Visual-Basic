@@ -1,0 +1,15 @@
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\_3_2_40.frmTrainingHeartRate.resources
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\_3_2_40.Resources.resources
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\spring2012\info233 (visual basic)\3-2-40\bin\Debug\3-2-40.exe
+U:\spring2012\info233 (visual basic)\3-2-40\bin\Debug\3-2-40.pdb
+U:\spring2012\info233 (visual basic)\3-2-40\bin\Debug\3-2-40.xml
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\3-2-40.exe
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\3-2-40.xml
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\3-2-40.pdb
+U:\spring2012\info233 (visual basic)\3-2-40\bin\Debug\3-2-40.exe.manifest
+U:\spring2012\info233 (visual basic)\3-2-40\bin\Debug\3-2-40.application
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\3-2-40.exe.manifest
+U:\spring2012\info233 (visual basic)\3-2-40\obj\x86\Debug\3-2-40.application
