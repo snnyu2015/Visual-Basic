@@ -1,0 +1,11 @@
+U:\spring2012\info233 (visual basic)\4-4-22\bin\Debug\4-4-22.exe
+U:\spring2012\info233 (visual basic)\4-4-22\bin\Debug\4-4-22.pdb
+U:\spring2012\info233 (visual basic)\4-4-22\bin\Debug\4-4-22.xml
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\_4_4_22.frmQuestionnaire.resources
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\_4_4_22.Resources.resources
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\4-4-22.exe
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\4-4-22.xml
+U:\spring2012\info233 (visual basic)\4-4-22\obj\x86\Debug\4-4-22.pdb

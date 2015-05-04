@@ -1,0 +1,11 @@
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\_5_2_34.frmGratuities.resources
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\_5_2_34.Resources.resources
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\spring2012\info233 (visual basic)\5-2-34\bin\Debug\5-2-34.exe
+U:\spring2012\info233 (visual basic)\5-2-34\bin\Debug\5-2-34.pdb
+U:\spring2012\info233 (visual basic)\5-2-34\bin\Debug\5-2-34.xml
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\5-2-34.exe
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\5-2-34.xml
+U:\spring2012\info233 (visual basic)\5-2-34\obj\x86\Debug\5-2-34.pdb
